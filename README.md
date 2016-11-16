@@ -9,7 +9,7 @@ OCR is optical character recognition meaning it translates the image it sees on 
 
 ## Download
 
-Clone or download the folder titled distribution.
+Clone or download the folder titled distribution. Alternatively, you can download from ![here](https://drive.google.com/open?id=0B1aECaHAYiqUalp3akhlb1lTQUU)
 
 
 ### How do I run it?
