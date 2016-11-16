@@ -30,4 +30,4 @@ That depends on the speed of your CPU. To prevent lag on older devices, there is
 
 ![Helvetica - Short &amp; Lossy](http://i.imgur.com/88iTGUf.gif)
 
-### Feel free to leave comments at the [AHK Boards](https://autohotkey.com/boards/viewtopic.php?f=6&t=21682)
+###### Feel free to leave comments at the [AHK Boards](https://autohotkey.com/boards/viewtopic.php?f=6&t=21682)
