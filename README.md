@@ -23,7 +23,7 @@ While the Left Mouse Button is held down, press the control key. You should see 
 * To move the rectangle, simply Left Click + Drag. 
 * To Resize, hold Control + Left Click + Drag the corner. 
 * To Resize the length of the box, hold Shift + Left Click + Drag the edge. 
-* Press ENTER to select your text. 
+* Press ```ENTER``` to select your text. 
 * Press Control + Enter to view the image binarization algorithm in action. 
 
 ### Is it really real-time?
