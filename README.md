@@ -27,7 +27,7 @@ While the Left Mouse Button is held down, press the control key. You should see 
 * Press ```Control``` + ```Enter``` to view the image binarization algorithm in action. 
 * To exit press ```Control``` + ```Q``` or ```Windows``` + ```Q```. 
 
-### Is it really real-time?
+##### Is it really real-time?
 
 That depends on the speed of your CPU. To prevent lag on older devices, there is a 100ms delay between each image to text conversion. The smaller the size of your rectangle, the quicker it will process. Larger images take time. 
 
