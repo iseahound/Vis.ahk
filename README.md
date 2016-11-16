@@ -29,3 +29,5 @@ While the Left Mouse Button is held down, press the control key. You should see 
 That depends on the speed of your CPU. To prevent lag on older devices, there is a 100ms delay between each image to text conversion. The smaller the size of your rectangle, the quicker it will process. Larger images take time. 
 
 ![Helvetica - Short &amp; Lossy](http://i.imgur.com/88iTGUf.gif)
+
+### Feel free to leave comments at the [AHK Boards](https://autohotkey.com/boards/viewtopic.php?f=6&t=21682)
